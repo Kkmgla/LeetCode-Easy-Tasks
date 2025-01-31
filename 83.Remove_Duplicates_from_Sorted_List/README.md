@@ -6,7 +6,7 @@ Given the `head` of a sorted linked list, delete all duplicates such that each e
 
 **Example 1:**
 
-![Example 1]([https://assets.leetcode.com/uploads/2021/01/04/list1.jpg)
+![Example 1](https://assets.leetcode.com/uploads/2021/01/04/list1.jpg)
 
 - **Input:** `head = [1,1,2]`
 - **Output:** `[1,2]`
